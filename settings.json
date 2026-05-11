@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "Needbot",
   "bot-account": {
-    "username": "Technoblade",
+    "username": "Need bot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
+    "ip": "needsmp.aternos.me",
+    "port": 30793,
     "version": "1.21.1"
   },
   "position": {
